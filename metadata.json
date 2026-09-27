@@ -1,0 +1,6 @@
+{
+  "name": "Aura Gallery",
+  "description": "An online art and nature gallery showcasing serene landscapes, oceans, botanicals, wildlife, and fine contemporary art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
